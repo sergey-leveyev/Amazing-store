@@ -13,7 +13,12 @@
     "@emotion/styled": "^11.8.1",
     "@mui/material": "^5.5.3",
     "@mui/styles": "^5.5.3",
+    "axios": "^0.26.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.10",
     "next": "12.1.4",
+    "next-connect": "^0.12.2",
     "react": "18.0.0",
     "react-dom": "18.0.0"
   },
